@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Logistic API  - log-api 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <img src="https://img.shields.io/badge/react-16.8.x-blue.svg" />
+  <img src="https://img.shields.io/badge/Java-11-blue.svg" />
   <a href="https://github.com/fncarneiro/log-api#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
@@ -17,7 +17,7 @@
 </p>
  
 <p>
- <a href="https://www.alura.com.br/">
+ <a href="https://www.algaworks.com/">
   <img src="https://d33wubrfki0l68.cloudfront.net/2359587f235e61ccc3f3f9a3d132b45b57d2ef31/4cb42/images/logo-algaworks-branca.ae0f45976bd5c78bfc021f52315f13f6bf4b7044956411f0f75fbf33fdb13038.png" class="page-image__logo__algaworks" alt="AlgaWorks Logo">    
   <br>
   Project to study Java Spring Rest API. Developed during the Java Spring Rest API course from AlgaWorks.
