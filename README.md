@@ -41,10 +41,7 @@ import maven project pom.xml
 
 ## Usage
 
-```sh
-run project and send http verbs using App like Postman.
-```
-[Postman](https://www.postman.com/)
+run project and send http verbs using App like [Postman](https://www.postman.com/)
 
 ### Endpoints
 
